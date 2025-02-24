@@ -25,7 +25,7 @@
 	<Option Name="CustomAudio" Enabled="False" />	<!-- Enable or disable a custom speak scenario, where the text will be read out aloud -->
 	<Option Name="LogoImageName" Value="https://digicomm360.com/wp-content/uploads/2024/06/ToastLogo.png" />  <!-- File name of the image shown as logo in the toast notoification  -->
 	<Option Name="HeroImageName" Value="" /> <!-- File name of the image shown in the top of the toast notification -->	
-	<Option Name="ActionButton1" Enabled="False" />	<!-- Enables or disables the action button. -->
+	<Option Name="ActionButton1" Enabled="True" />	<!-- Enables or disables the action button. -->
 	<Option Name="ActionButton2" Enabled="False" />	<!-- Enables or disables the action button. -->
 	<Option Name="DismissButton" Enabled="False" />	<!-- Enables or disables the dismiss button. -->
 	<Option Name="SnoozeButton" Enabled="True" /> <!-- Enabling this option will always enable action button and dismiss button -->
